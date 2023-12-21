@@ -1,0 +1,4 @@
+name: FestiveCheer
+version: '${project.version}'
+main: cc.festivecheer.FestiveCheer
+api-version: '1.20'
